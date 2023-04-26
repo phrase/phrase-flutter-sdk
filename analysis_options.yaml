@@ -1,0 +1,13 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    sort_pub_dependencies: false
+    directives_ordering: true
+
+analyzer:
+  errors:
+    missing_return: error
+    must_be_immutable: error
+    missing_required_param: error
+    invalid_use_of_visible_for_testing_member: error

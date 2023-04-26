@@ -1,0 +1,7 @@
+builders:
+  phraseBuilder:
+    import: "package:phrase/src/phrase_gen.dart"
+    builder_factories: ['phraseBuilder']
+    build_extensions: {"$package$": [".dart_tool/flutter_gen/gen_l10n/phrase_localizations.dart"]}
+    build_to: "source"
+    auto_apply: dependents
