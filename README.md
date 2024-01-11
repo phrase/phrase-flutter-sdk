@@ -4,4 +4,4 @@ Publish your translations faster and simpler than ever before. Stop waiting for 
 
 ## Instructions
 
-https://help.phrase.com/help/phrase-over-the-air-introduction
+See help article: https://support.phrase.com/hc/en-us/articles/5804059067804
