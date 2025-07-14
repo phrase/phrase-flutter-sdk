@@ -1,0 +1,102 @@
+NOTICE
+
+This product includes third party software developed by various authors.
+
+---
+
+DEPENDENCIES AND LICENSE INFORMATION:
+
+1. build
+   - Version: 2.4.1
+   - License: "New BSD"
+   - Author(s): "The Dart project authors"
+   - URL: https://github.com/dart-lang/build/tree/master/build
+   - License text: See LICENSES file within the included source code of the dependency
+
+2. crypto
+   - Version: 3.0.3
+   - License: "New BSD"
+   - Author(s): "The Dart project authors"
+   - URL: https://github.com/dart-lang/crypto
+   - License text: See LICENSES file within the included source code of the dependency
+
+3. glob
+   - Version: 2.1.2
+   - License: "New BSD"
+   - Author(s): "The Dart project authors"
+   - URL: https://github.com/dart-lang/glob
+   - License text: See LICENSES file within the included source code of the dependency
+
+4. http
+   - Version: 1.1.0
+   - License: "New BSD"
+   - Author(s): "The Dart project authors"
+   - URL: https://github.com/dart-lang/http/tree/master/pkgs/http
+   - License text: See LICENSES file within the included source code of the dependency
+
+5. intl
+   - Version: 0.19.0
+   - License: "New BSD"
+   - Author(s): "The Dart project authors"
+   - URL: https://github.com/dart-lang/i18n/tree/main/pkgs/intl
+   - License text: See LICENSES file within the included source code of the dependency
+
+6. package_info_plus
+   - Version: 4.2.0
+   - License: "New BSD"
+   - Author(s): "The Chromium Authors"
+   - URL: https://github.com/fluttercommunity/plus_plugins/tree/main/packages/package_info_plus/package_info_plus
+   - License text: See LICENSES file within the included source code of the dependency
+
+7. path
+   - Version: 1.8.3
+   - License: "New BSD"
+   - Author(s): "The Dart project authors"
+   - URL: https://github.com/dart-lang/path
+   - License text: See LICENSES file within the included source code of the dependency
+
+8. path_provider
+   - Version: 2.1.2
+   - License: "New BSD"
+   - Author(s): "The Flutter Authors"
+   - URL: https://github.com/flutter/packages/tree/main/packages/path_provider/path_provider
+   - License text: See LICENSES file within the included source code of the dependency
+
+9. shared_preferences
+   - Version: 2.2.2
+   - License: "New BSD"
+   - Author(s): "The Flutter Authors"
+   - URL: https://github.com/flutter/packages/tree/main/packages/shared_preferences/shared_preferences
+   - License text: See LICENSES file within the included source code of the dependency
+
+10. synchronized
+   - Version: 3.1.0+1
+   - License: MIT
+   - Author(s): "Alexandre Roux Tekartik"
+   - URL: https://pub.dev/packages/synchronized
+   - License text: See LICENSES file within the included source code of the dependency
+
+11. uuid
+   - Version: 4.2.2
+   - License: MIT
+   - Author(s): "Yulian Kuncheff"
+   - URL: https://github.com/Daegalus/dart-uuid
+   - License text: See LICENSES file within the included source code of the dependency
+
+12. version
+   - Version: 3.0.2
+   - License: "New BSD"
+   - Author(s): "Matthew Barbour"
+   - URL: https://pub.dev/packages/version
+   - License text: See LICENSES file within the included source code of the dependency
+
+13. yaml
+   - Version: 3.1.2
+   - License: MIT
+   - Author(s): "The Dart project authors"
+   - URL: https://github.com/dart-lang/yaml
+   - License text: See LICENSES file within the included source code of the dependency
+
+---
+
+This NOTICE file is for informational purposes only and does not modify the license terms of any referenced software.
